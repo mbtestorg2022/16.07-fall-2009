@@ -406,7 +406,7 @@ Dynamics and control challenges that occurred during the Apollo project
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit16_07f09_lec32))
+([PDF]({{< baseurl >}}/resources/mit16_07f09_lec32))
 {{< tdclose >}}
 
 {{< trclose >}}
